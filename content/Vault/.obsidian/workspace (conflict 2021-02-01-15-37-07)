@@ -1,0 +1,114 @@
+{
+  "main": {
+    "id": "f713564d5a841f71",
+    "type": "split",
+    "children": [
+      {
+        "id": "8565a38afa4f209f",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "136b030acca8a52c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee96cd9d4415a4da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42f90d848a48c21f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f38eaf3e37f94d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "91d8243db7887781",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 298
+  },
+  "right": {
+    "id": "c238470c74972c61",
+    "type": "split",
+    "children": [
+      {
+        "id": "293967510257ea1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06cb56f2c19180cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "327feed63f5e0a7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 310
+  },
+  "lastOpenFiles": [
+    "Synchronous/yyyyy.md",
+    "Phone Sync/testttttt.md",
+    "Phone Sync/testing.md",
+    "Phone Sync/New Document.md",
+    "Phone Sync/can only make me stronger.md",
+    "Phone Sync/ne.md",
+    "Phone Sync/Wha.md",
+    "2021-01-23.md",
+    "Writer/[[Network]].md",
+    "Writer/[[Steal Like an Artist]] ] [[Network]].md"
+  ]
+}
